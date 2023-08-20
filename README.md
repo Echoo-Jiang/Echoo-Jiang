@@ -9,4 +9,6 @@
 
 **本页访问次数/Visitor Count**
 
-![Visitor Count](https://profile-counter.glitch.me/Echoo-Jiang/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Echoo-Jiang/count.svg)  
+
+<img alt="github-snake" src="https://badgen.net/badge/{C++}/{c++11}/{blue}?icon=github" /></picture>  
